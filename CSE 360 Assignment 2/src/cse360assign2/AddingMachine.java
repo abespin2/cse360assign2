@@ -16,7 +16,7 @@ public class AddingMachine {
 	 * The subtract method should subtract the parameter from the total variable
 	 */
 	public int getTotal () {
-		return 0;
+		return total;
 	}
 	
 	/**

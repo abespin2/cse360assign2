@@ -4,6 +4,7 @@
  * Assignment 2
  * AddingMachine.Java is a simple program that manipulates the value of a variable
  * Using various methods. Also used to learn github and repositories.
+ * URL - https://github.com/abespin2/cse360assign2.git
  */
 
 package cse360assign2;
